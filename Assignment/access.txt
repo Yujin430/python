@@ -1,0 +1,4 @@
+[CYJ]: [d584553119a41bdaf5910302b5c7771774abcd4d], [YujinChoi], [KoreaTech]
+[cyj]: [39dfa55283318d31afe5a3ff4a0e3253e2045e43], [yujin], [KoreaTech]
+[SHINHWA]: [49cd869a0dd2d901845ca9c790a5eab5870727da], [shinhwa], [shinhwa_changjo]
+[YAP]: [8cb2237d0679ca88db6464eac60da96345513964], [yapppp], [MiddleSchool]
